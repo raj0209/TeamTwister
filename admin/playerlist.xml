@@ -1,0 +1,1498 @@
+<?xml version="1.0"?>
+<players>
+	<player>
+		<playerid>afg1</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Nawoz mangal</playername>
+		<country>Afghanistan</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>afg10</playerid>
+		<playertype>batsmen</playertype>
+		<playername>karim sadiq</playername>
+		<country>Afghanistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>afg3</playerid>
+		<playertype>batsmen</playertype>
+		<playername>gulbodin naib</playername>
+		<country>Afghanistan</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>afg4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>hamza hotak</playername>
+		<country>Afghanistan</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>afg9</playerid>
+		<playertype>batsmen</playertype>
+		<playername>javed ahmadi</playername>
+		<country>Afghanistan</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>aus15</playerid>
+		<playertype>batsmen</playertype>
+		<playername>David Warner</playername>
+		<country>Australia</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>aus2</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Usman Khawaja</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus3</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Michael Clarke</playername>
+		<country>Australia</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>aus4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Aaron Finch</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus6</playerid>
+		<playertype>batsmen</playertype>
+		<playername>George Bailey</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus7</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Philip Hughes</playername>
+		<country>Australia</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>eng1</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Jonny Bairstow</playername>
+		<country>England</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>eng12</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Joe Root</playername>
+		<country>England</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>eng2</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Jos Butler</playername>
+		<country>England</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>eng4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Ian Bell</playername>
+		<country>England</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>eng7</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Eoin Morgan</playername>
+		<country>England</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>eng8</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Alastair Cook </playername>
+		<country>England</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>eng9</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Kevin Petersen</playername>
+		<country>England</country>
+		<cost>105</cost>
+	</player>
+
+	<player>
+		<playerid>ind14</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Cheteshwar Pujara</playername>
+		<country>India</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ind2</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Gautam Gambhir</playername>
+		<country>India</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ind3</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Suresh Raina</playername>
+		<country>India</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ind4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Sachin Tendulkar</playername>
+		<country>India</country>
+		<cost>105</cost>
+	</player>
+
+	<player>
+		<playerid>ind5</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Rohit Sharma</playername>
+		<country>India</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>ind6</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Virat Kohli</playername>
+		<country>India</country>
+		<cost>105</cost>
+	</player>
+
+	<player>
+		<playerid>ind7</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Ajinkya Rahane</playername>
+		<country>India</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>ire10</playerid>
+		<playertype>batsmen</playertype>
+		<playername>james shannon</playername>
+		<country>Ireland</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ire11</playerid>
+		<playertype>batsmen</playertype>
+		<playername>paul stirling</playername>
+		<country>Ireland</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ire13</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Andrew white</playername>
+		<country>Ireland</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ire7</playerid>
+		<playertype>batsmen</playertype>
+		<playername>john monney</playername>
+		<country>Ireland</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>ire8</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Andrew poynter</playername>
+		<country>Ireland</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ken10</playerid>
+		<playertype>batsmen</playertype>
+		<playername>rakep patel</playername>
+		<country>Kenya</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>ken13</playerid>
+		<playertype>batsmen</playertype>
+		<playername>seren waters </playername>
+		<country>Kenya</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ken14</playerid>
+		<playertype>batsmen</playertype>
+		<playername>dominic wesonga</playername>
+		<country>Kenya</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ken4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>runish gudhka</playername>
+		<country>Kenya</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ken6</playerid>
+		<playertype>batsmen</playertype>
+		<playername>tanmay mishra</playername>
+		<country>Kenya</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>ken7</playerid>
+		<playertype>batsmen</playertype>
+		<playername>david obuya</playername>
+		<country>Kenya</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>new1</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Ross Taylor</playername>
+		<country>New Zealand</country>
+		<cost>95</cost>
+	</player>
+
+	<player>
+		<playerid>new11</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Kane Williamson</playername>
+		<country>New Zealand</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>new13</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Rob Nicol</playername>
+		<country>New Zealand</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>new15</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Corey Anderson</playername>
+		<country>New Zealand</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>new4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Colin Munro</playername>
+		<country>New Zealand</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>new5</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Martin Guptill</playername>
+		<country>New Zealand</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>pak1</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Misbah-ul-haq</playername>
+		<country>Pakistan</country>
+		<cost>95</cost>
+	</player>
+
+	<player>
+		<playerid>pak12</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Taufeeq Umar</playername>
+		<country>Pakistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>pak13</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Umar Akmal</playername>
+		<country>Pakistan</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>pak5</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Asad Shafiq</playername>
+		<country>Pakistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>pak6</playerid>
+		<playertype>batsmen</playertype>
+		<playername>azhar ali</playername>
+		<country>Pakistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>pak7</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Imran Farhat</playername>
+		<country>Pakistan</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>sou1</playerid>
+		<playertype>batsmen</playertype>
+		<playername>AB de Villiers</playername>
+		<country>South Africa</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>sou16</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Colin Ingram</playername>
+		<country>South Africa</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>sou3</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Faf du plessis</playername>
+		<country>South Africa</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>sou4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Graeme Smith</playername>
+		<country>South Africa</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>sou5</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Hashim Amla</playername>
+		<country>South Africa</country>
+		<cost>105</cost>
+	</player>
+
+	<player>
+		<playerid>sou6</playerid>
+		<playertype>batsmen</playertype>
+		<playername>JP Duminy</playername>
+		<country>South Africa</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>sou8</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Farhaan Behardein</playername>
+		<country>South Africa</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>sri1</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Tillakaratne Dilshan</playername>
+		<country>Sri Lanka</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>sri14</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Upul Tharanga</playername>
+		<country>Sri Lanka</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>sri15</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Lahiru Thirimanne</playername>
+		<country>Sri Lanka</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>sri6</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Mahela Jayawardene</playername>
+		<country>Sri Lanka</country>
+		<cost>95</cost>
+	</player>
+
+	<player>
+		<playerid>wi12</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Dwayne Smith</playername>
+		<country>West Indies</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>wi13</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Lendl Simmons</playername>
+		<country>West Indies</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>wi2</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Chris Gayle</playername>
+		<country>West Indies</country>
+		<cost>105</cost>
+	</player>
+
+	<player>
+		<playerid>wi3</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Johnson Charles</playername>
+		<country>West Indies</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>wi4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Darren Bravo</playername>
+		<country>West Indies</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>zim1</playerid>
+		<playertype>batsmen</playertype>
+		<playername>Brendan taylor</playername>
+		<country>Zimbabwe</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>zim10</playerid>
+		<playertype>batsmen</playertype>
+		<playername>foster mutizwa</playername>
+		<country>Zimbabwe</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>zim13</playerid>
+		<playertype>batsmen</playertype>
+		<playername>keegan meth</playername>
+		<country>Zimbabwe</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>zim2</playerid>
+		<playertype>batsmen</playertype>
+		<playername>hamilton masakadza</playername>
+		<country>Zimbabwe</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>zim4</playerid>
+		<playertype>batsmen</playertype>
+		<playername>tatenda taibu</playername>
+		<country>Zimbabwe</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>zim9</playerid>
+		<playertype>batsmen</playertype>
+		<playername>stuart matsikenyeri</playername>
+		<country>Zimbabwe</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>afg12</playerid>
+		<playertype>allrounder</playertype>
+		<playername>mohammad nabi</playername>
+		<country>Afghanistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>afg2</playerid>
+		<playertype>allrounder</playertype>
+		<playername>asghar stanikzai</playername>
+		<country>Afghanistan</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus1</playerid>
+		<playertype>allrounder</playertype>
+		<playername>David Hussey</playername>
+		<country>Australia</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>aus11</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Glenn Maxwell</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus8</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Steven Smith</playername>
+		<country>Australia</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>eng14</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Chris Woakes</playername>
+		<country>England</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>eng6</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Samit Patel</playername>
+		<country>England</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ind16</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Ravindra Jadeja</playername>
+		<country>India</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ind8</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Yuvraj Singh</playername>
+		<country>India</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>ire1</playerid>
+		<playertype>allrounder</playertype>
+		<playername>kevin O brien</playername>
+		<country>Ireland</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ken1</playerid>
+		<playertype>allrounder</playertype>
+		<playername>collins obuya</playername>
+		<country>Kenya</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ken3</playerid>
+		<playertype>allrounder</playertype>
+		<playername>duncan allan</playername>
+		<country>Kenya</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>new12</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Jimmy Neesham</playername>
+		<country>New Zealand</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>new14</playerid>
+		<playertype>allrounder</playertype>
+		<playername>James Franklin</playername>
+		<country>New Zealand</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>pak16</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Shahid Afridi</playername>
+		<country>Pakistan</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>pak9</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Mohammad Hafeez</playername>
+		<country>Pakistan</country>
+		<cost>95</cost>
+	</player>
+
+	<player>
+		<playerid>sou17</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Ryan McLaren</playername>
+		<country>South Africa</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>sou9</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Albie Morkel</playername>
+		<country>South Africa</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>sri10</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Thisara Parera</playername>
+		<country>Sri Lanka</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>sri2</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Angelo Mathews</playername>
+		<country>Sri Lanka</country>
+		<cost>95</cost>
+	</player>
+
+	<player>
+		<playerid>sri7</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Jeevan Mendis</playername>
+		<country>Sri Lanka</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>wi5</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Marlon Samuels</playername>
+		<country>West Indies</country>
+		<cost>95</cost>
+	</player>
+
+	<player>
+		<playerid>wi6</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Dwayne Bravo</playername>
+		<country>West Indies</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>wi7</playerid>
+		<playertype>allrounder</playertype>
+		<playername>Kieron Pollard</playername>
+		<country>West Indies</country>
+		<cost>95</cost>
+	</player>
+
+	<player>
+		<playerid>zim5</playerid>
+		<playertype>allrounder</playertype>
+		<playername>malcolm waller</playername>
+		<country>Zimbabwe</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>zim7</playerid>
+		<playertype>allrounder</playertype>
+		<playername>elton chigumbura</playername>
+		<country>Zimbabwe</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>afg13</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>mohammad shahzad</playername>
+		<country>Afghanistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>aus12</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Brad Haddin</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus13</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Matthew Wade</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>eng17</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Craig Keiswetter</playername>
+		<country>England</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>ind1</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>MS Dhoni</playername>
+		<country>India</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>ire14</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>gary wilson</playername>
+		<country>Ireland</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ire9</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>stuart poynter</playername>
+		<country>Ireland</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>ken5</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>irfan karim</playername>
+		<country>Kenya</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>new10</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>BJ Watling</playername>
+		<country>New Zealand</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>new6</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Brendon McCullum</playername>
+		<country>New Zealand</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>pak3</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Adnan Akmal</playername>
+		<country>Pakistan</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>sou2</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Quinton de Kock</playername>
+		<country>South Africa</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>sri12</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Kumar Sangakkara</playername>
+		<country>Sri Lanka</country>
+		<cost>105</cost>
+	</player>
+
+	<player>
+		<playerid>sri3</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Dinesh Chandimal</playername>
+		<country>Sri Lanka</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>wi8</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>Denesh Ramdin</playername>
+		<country>West Indies</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>zim8</playerid>
+		<playertype>wicketkeeper</playertype>
+		<playername>regis chakabva</playername>
+		<country>Zimbabwe</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>afg11</playerid>
+		<playertype>bowler</playertype>
+		<playername>mirwais ashraf</playername>
+		<country>Afghanistan</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>afg14</playerid>
+		<playertype>bowler</playertype>
+		<playername>samiullah shenwari</playername>
+		<country>Afghanistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>afg5</playerid>
+		<playertype>bowler</playertype>
+		<playername>aftab alam </playername>
+		<country>Afghanistan</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>afg6</playerid>
+		<playertype>bowler</playertype>
+		<playername>dawlat zadran</playername>
+		<country>Afghanistan</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>afg7</playerid>
+		<playertype>bowler</playertype>
+		<playername>hamid hassan</playername>
+		<country>Afghanistan</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>afg8</playerid>
+		<playertype>bowler</playertype>
+		<playername>izatullah dawlatzai</playername>
+		<country>Afghanistan</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>aus10</playerid>
+		<playertype>bowler</playertype>
+		<playername>Patrick Cummins</playername>
+		<country>Australia</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>aus14</playerid>
+		<playertype>bowler</playertype>
+		<playername>Peter Siddle</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus16</playerid>
+		<playertype>bowler</playertype>
+		<playername>Mitchell Johnson</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus17</playerid>
+		<playertype>bowler</playertype>
+		<playername>Ben Cutting</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus18</playerid>
+		<playertype>bowler</playertype>
+		<playername>Clint Mckay</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus19</playerid>
+		<playertype>bowler</playertype>
+		<playername>Xavier Doherty</playername>
+		<country>Australia</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>aus9</playerid>
+		<playertype>bowler</playertype>
+		<playername>Mitchell Starc</playername>
+		<country>Australia</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>eng10</playerid>
+		<playertype>bowler</playertype>
+		<playername>Danny Briggs</playername>
+		<country>England</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>eng11</playerid>
+		<playertype>bowler</playertype>
+		<playername>Jade Dernbach</playername>
+		<country>England</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>eng13</playerid>
+		<playertype>bowler</playertype>
+		<playername>Steven Finn </playername>
+		<country>England</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>eng15</playerid>
+		<playertype>bowler</playertype>
+		<playername>James Tredwell</playername>
+		<country>England</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>eng16</playerid>
+		<playertype>bowler</playertype>
+		<playername>Stuart Broad</playername>
+		<country>England</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>eng3</playerid>
+		<playertype>bowler</playertype>
+		<playername>Stuart Meaker</playername>
+		<country>England</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>eng5</playerid>
+		<playertype>bowler</playertype>
+		<playername>Tim Bresnan</playername>
+		<country>England</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ind10</playerid>
+		<playertype>bowler</playertype>
+		<playername>Ashok Dinda</playername>
+		<country>India</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>ind11</playerid>
+		<playertype>bowler</playertype>
+		<playername>Bhuvneshwar Kumar</playername>
+		<country>India</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ind12</playerid>
+		<playertype>bowler</playertype>
+		<playername>Amit Mishra</playername>
+		<country>India</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ind13</playerid>
+		<playertype>bowler</playertype>
+		<playername>R Ashwin</playername>
+		<country>India</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>ind15</playerid>
+		<playertype>bowler</playertype>
+		<playername>Ishant Sharma</playername>
+		<country>India</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>ind9</playerid>
+		<playertype>bowler</playertype>
+		<playername>Shami Ahmed</playername>
+		<country>India</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>ire12</playerid>
+		<playertype>bowler</playertype>
+		<playername>albert van der merwe</playername>
+		<country>Ireland</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ire2</playerid>
+		<playertype>bowler</playertype>
+		<playername>alex cusack</playername>
+		<country>Ireland</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>ire3</playerid>
+		<playertype>bowler</playertype>
+		<playername>george dockrell</playername>
+		<country>Ireland</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ire4</playerid>
+		<playertype>bowler</playertype>
+		<playername>phil eaglestone</playername>
+		<country>Ireland</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ire5</playerid>
+		<playertype>bowler</playertype>
+		<playername>nigel jones </playername>
+		<country>Ireland</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ire6</playerid>
+		<playertype>bowler</playertype>
+		<playername>graeme mcCarter</playername>
+		<country>Ireland</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>ken11</playerid>
+		<playertype>bowler</playertype>
+		<playername>emmanuel bundi</playername>
+		<country>Kenya</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>ken12</playerid>
+		<playertype>bowler</playertype>
+		<playername>hiren varaiya</playername>
+		<country>Kenya</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>ken2</playerid>
+		<playertype>bowler</playertype>
+		<playername>ibrahim akello</playername>
+		<country>Kenya</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>ken8</playerid>
+		<playertype>bowler</playertype>
+		<playername>lucas oluoch</playername>
+		<country>Kenya</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>ken9</playerid>
+		<playertype>bowler</playertype>
+		<playername>lameck onyango</playername>
+		<country>Kenya</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>new16</playerid>
+		<playertype>bowler</playertype>
+		<playername>Adam Milne</playername>
+		<country>New Zealand</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>new2</playerid>
+		<playertype>bowler</playertype>
+		<playername>Trent Boult</playername>
+		<country>New Zealand</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>new3</playerid>
+		<playertype>bowler</playertype>
+		<playername>Ronnie Hira</playername>
+		<country>New Zealand</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>new7</playerid>
+		<playertype>bowler</playertype>
+		<playername>Nathan McCullum</playername>
+		<country>New Zealand</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>new8</playerid>
+		<playertype>bowler</playertype>
+		<playername>Kyle Mills</playername>
+		<country>New Zealand</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>new9</playerid>
+		<playertype>bowler</playertype>
+		<playername>Mitchell Mcclenaghan</playername>
+		<country>New Zealand</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>pak11</playerid>
+		<playertype>bowler</playertype>
+		<playername>Saeed Ajmal</playername>
+		<country>Pakistan</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>pak14</playerid>
+		<playertype>bowler</playertype>
+		<playername>Umar Gul</playername>
+		<country>Pakistan</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>pak15</playerid>
+		<playertype>bowler</playertype>
+		<playername>Wahab Riaz</playername>
+		<country>Pakistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>pak2</playerid>
+		<playertype>bowler</playertype>
+		<playername>Abdur Rehman</playername>
+		<country>Pakistan</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>pak4</playerid>
+		<playertype>bowler</playertype>
+		<playername>Aizaz Cheema</playername>
+		<country>Pakistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>pak8</playerid>
+		<playertype>bowler</playertype>
+		<playername>Junaid Khan</playername>
+		<country>Pakistan</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>sou10</playerid>
+		<playertype>bowler</playertype>
+		<playername>Dale Steyn</playername>
+		<country>South Africa</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>sou11</playerid>
+		<playertype>bowler</playertype>
+		<playername>Rory Kleinveldt</playername>
+		<country>South Africa</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>sou12</playerid>
+		<playertype>bowler</playertype>
+		<playername>Lonwabo Tsotsobe</playername>
+		<country>South Africa</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>sou13</playerid>
+		<playertype>bowler</playertype>
+		<playername>Morne  Morkel</playername>
+		<country>South Africa</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>sou14</playerid>
+		<playertype>bowler</playertype>
+		<playername>Robin Peterson</playername>
+		<country>South Africa</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>sou15</playerid>
+		<playertype>bowler</playertype>
+		<playername>Aaron Phangiso</playername>
+		<country>South Africa</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>sou7</playerid>
+		<playertype>bowler</playertype>
+		<playername>Vernon Philander</playername>
+		<country>South Africa</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>sri11</playerid>
+		<playertype>bowler</playertype>
+		<playername>Shaminda Eranga</playername>
+		<country>Sri Lanka</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>sri13</playerid>
+		<playertype>bowler</playertype>
+		<playername>Akila Dananjaya</playername>
+		<country>Sri Lanka</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>sri16</playerid>
+		<playertype>bowler</playertype>
+		<playername>Ajantha Mendis</playername>
+		<country>Sri Lanka</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>sri4</playerid>
+		<playertype>bowler</playertype>
+		<playername>Suranga Lakmal</playername>
+		<country>Sri Lanka</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>sri5</playerid>
+		<playertype>bowler</playertype>
+		<playername>Rangana Herath</playername>
+		<country>Sri Lanka</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>sri8</playerid>
+		<playertype>bowler</playertype>
+		<playername>Nuwan Kulesekara</playername>
+		<country>Sri Lanka</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>sri9</playerid>
+		<playertype>bowler</playertype>
+		<playername>Lasith Malinga</playername>
+		<country>Sri Lanka</country>
+		<cost>100</cost>
+	</player>
+
+	<player>
+		<playerid>wi1</playerid>
+		<playertype>bowler</playertype>
+		<playername>Darren Sammy</playername>
+		<country>West Indies</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>wi10</playerid>
+		<playertype>bowler</playertype>
+		<playername>Ravi Rampual</playername>
+		<country>West Indies</country>
+		<cost>90</cost>
+	</player>
+
+	<player>
+		<playerid>wi11</playerid>
+		<playertype>bowler</playertype>
+		<playername>Sunil Narine</playername>
+		<country>West Indies</country>
+		<cost>95</cost>
+	</player>
+
+	<player>
+		<playerid>wi14</playerid>
+		<playertype>bowler</playertype>
+		<playername>Fidel Edwards</playername>
+		<country>West Indies</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>wi9</playerid>
+		<playertype>bowler</playertype>
+		<playername>Andre Russell</playername>
+		<country>West Indies</country>
+		<cost>85</cost>
+	</player>
+
+	<player>
+		<playerid>zim11</playerid>
+		<playertype>bowler</playertype>
+		<playername>prosper utseya</playername>
+		<country>Zimbabwe</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>zim12</playerid>
+		<playertype>bowler</playertype>
+		<playername>graeme cremer</playername>
+		<country>Zimbabwe</country>
+		<cost>80</cost>
+	</player>
+
+	<player>
+		<playerid>zim14</playerid>
+		<playertype>bowler</playertype>
+		<playername>kyle jarvis</playername>
+		<country>Zimbabwe</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>zim15</playerid>
+		<playertype>bowler</playertype>
+		<playername>brian vitori</playername>
+		<country>Zimbabwe</country>
+		<cost>70</cost>
+	</player>
+
+	<player>
+		<playerid>zim16</playerid>
+		<playertype>bowler</playertype>
+		<playername>shingi masakadza</playername>
+		<country>Zimbabwe</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>zim3</playerid>
+		<playertype>bowler</playertype>
+		<playername>tinotenda mawoyo</playername>
+		<country>Zimbabwe</country>
+		<cost>75</cost>
+	</player>
+
+	<player>
+		<playerid>zim6</playerid>
+		<playertype>bowler</playertype>
+		<playername>ray price</playername>
+		<country>Zimbabwe</country>
+		<cost>75</cost>
+	</player>
+</players>
